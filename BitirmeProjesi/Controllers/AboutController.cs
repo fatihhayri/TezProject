@@ -13,7 +13,7 @@ namespace BitirmeProjesi.Controllers
        
         public ActionResult Index()
         {
-            
+            Her hangi bir şey yazsam patlarmı 
             return View();
         }
     }
